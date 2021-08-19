@@ -13,6 +13,7 @@ if(navToggle) {
     })
 }
 
+
 /*===== MENU HIDDEN =====*/
 /* Validate if constant exists */
 if(navClose) {

@@ -7,9 +7,7 @@
 
     /*========== Colors ==========*/
     /* Change favorite color */
-    --hue-color: 142; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
-
-
+    --hue-color: 250; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
     /* HSL color mode */
     --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -96,7 +94,6 @@ body.dark-theme {
     margin-right: var(--mb-1);
     cursor: pointer;
 }
-
 
 
 /*==================== BASE ====================*/
@@ -678,7 +675,7 @@ img {
     margin-bottom: var(--mb-1-5);
 }
 
-.services__modal-close{
+.orpass-modal-close{
     position: absolute;
     top: 1rem;
     right: 1rem;
